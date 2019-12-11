@@ -1,10 +1,8 @@
-## AGUJEROS NEGROS
-### Una guía ilustrada para comprender las características de estos misteriosos objetos astrofísicos.
+### Introducción
+
+Esta es la intro
 
 
-You can use the [editor on GitHub](https://github.com/ashcat2005/AgujerosNegros/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
