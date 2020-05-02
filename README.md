@@ -1,8 +1,8 @@
 ### Introducción
 
-Esta es la intro
-
-
+### Qué es un Agujero Negro?
+Estrellas oscuras en la gravedad Newtoniana
+Agujeros Negros en la Relatividad General
 
 ### Markdown
 
