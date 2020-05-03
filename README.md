@@ -1,12 +1,12 @@
 ### Introducción [ (pdf) ](https://github.com/ashcat2005/Agujeros-Negros/raw/master/Introduccion.pdf)
 
 ### 1. Qué es un Agujero Negro?  [ (pdf) ](https://github.com/ashcat2005/Agujeros-Negros/raw/master/Capitulo_1.pdf)
-Estrellas oscuras en la gravedad Newtoniana.\
+Estrellas oscuras en la gravedad Newtoniana.<br>
 Agujeros Negros en la Relatividad General.
 
 ### 2. La Muerte de una Estrella y el Nacimiento de Agujero Negro
 Enanas Blancas.\
-Estrellas de Neutrones.\
+Estrellas de Neutrones.<br>
 Campos MAgnéticos, Magnetars y Pulsars.\
 Estructura Interna de una Estrella de Neutrones.\
 El Proceso de Acreción.\
