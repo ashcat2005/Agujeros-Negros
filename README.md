@@ -5,23 +5,23 @@ Estrellas oscuras en la gravedad Newtoniana.<br>
 Agujeros Negros en la Relatividad General.
 
 ### 2. La Muerte de una Estrella y el Nacimiento de Agujero Negro
-Enanas Blancas.\
+Enanas Blancas.<br>
 Estrellas de Neutrones.<br>
-Campos MAgnéticos, Magnetars y Pulsars.\
-Estructura Interna de una Estrella de Neutrones.\
-El Proceso de Acreción.\
-Evidencia Observacional.\
+Campos MAgnéticos, Magnetars y Pulsars.<br>
+Estructura Interna de una Estrella de Neutrones.<br>
+El Proceso de Acreción.<br>
+Evidencia Observacional.<br>
 Agujeros Negros.
 
 ### Clasificación de los Agujeros Negros
-Clasificación de acuerdo con las Características Físicas.\
-Agujeros negros no-rotantes sin carga eléctrica.\
-Agujeros negros no-rotantes con carga eléctrica.\
-Agujeros negros rotantes sin carga eléctrica.\
-Agujeros negros rotantes con carga eléctrica.\
-Clasificación de acuerdo con la Masa.\
-Agujeros Negros Estelares.\
-Agujeros Negros Supermasivos.\
+Clasificación de acuerdo con las Características Físicas.<br>
+Agujeros negros no-rotantes sin carga eléctrica.<br>
+Agujeros negros no-rotantes con carga eléctrica.<br>
+Agujeros negros rotantes sin carga eléctrica.<br>
+Agujeros negros rotantes con carga eléctrica.<br>
+Clasificación de acuerdo con la Masa.<br>
+Agujeros Negros Estelares.<br>
+Agujeros Negros Supermasivos.<br>
 Agujeros Negros Primordiales o Microscópicos.
 
 ### Anatomía de un Agujero Negro
