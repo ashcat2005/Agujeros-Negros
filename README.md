@@ -11,7 +11,7 @@ Campos MAgnéticos, Magnetars y Pulsars.\
 Estructura Interna de una Estrella de Neutrones.\
 El Proceso de Acreción.\
 Evidencia Observacional.\
-Agujeros Negros.\
+Agujeros Negros.
 
 ### Clasificación de los Agujeros Negros
 Clasificación de acuerdo con las Características Físicas.\
@@ -22,7 +22,7 @@ Agujeros negros rotantes con carga eléctrica.\
 Clasificación de acuerdo con la Masa.\
 Agujeros Negros Estelares.\
 Agujeros Negros Supermasivos.\
-Agujeros Negros Primordiales o Microscópicos.\
+Agujeros Negros Primordiales o Microscópicos.
 
 ### Anatomía de un Agujero Negro
 
