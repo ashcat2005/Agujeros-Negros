@@ -13,7 +13,7 @@ El Proceso de Acreción.<br>
 Evidencia Observacional.<br>
 Agujeros Negros.
 
-### Clasificación de los Agujeros Negros
+### 3. Clasificación de los Agujeros Negros
 Clasificación de acuerdo con las Características Físicas.<br>
 Agujeros negros no-rotantes sin carga eléctrica.<br>
 Agujeros negros no-rotantes con carga eléctrica.<br>
@@ -24,22 +24,37 @@ Agujeros Negros Estelares.<br>
 Agujeros Negros Supermasivos.<br>
 Agujeros Negros Primordiales o Microscópicos.
 
-### Anatomía de un Agujero Negro
+### 4. Anatomía de un Agujero Negro
+Agujeros Negros Estáticos.<br>
+Agujeros Negros Rotantes.<br>
+Singularidades.<br>
+La experiencia de Observadores localizados cerca de un Agujero Negro.<br>
+Observador en Caida Libre hacia un agujero Negro.<br>
+Dilatación del Tiempo.<br>
+Corrimiento al Rojo Gravitacional.<br>
+Dentro del Horizonte de Eventos.
 
-### Observando lo Imposible
+### 5. Observando lo Imposible
+Orbitas de Partículas.<br>
+Orbitas Elípticas.<br>
+Orbitas Circulares.<br>
+Orbitas de Fotones.<br>
+Acreción hacia un Agujero Negro.<br>
+Disco de Acreción.<br>
+Jets Relativistas.
 
-### Visualización de una Agujero Negro
+### 6. Visualización de una Agujero Negro
 
-### Agujeros Negros Estelares
+### 7. Agujeros Negros Estelares
 
-### Cygnus X-1
+### 8. Cygnus X-1
 
-### Ondas Gravitacionales producidas por Sistemas Binarios Compactos
+### 9. Ondas Gravitacionales producidas por Sistemas Binarios Compactos
 
-### Agujeros Negros Supermasivos
+### 10. Agujeros Negros Supermasivos
 
-### Sagittarius A*
+### 11. Sagittarius A*
 
-### M87*. Fotografia de un Agujero Negro
+### 12. M87*. Fotografia de un Agujero Negro
 
 ### Referencias
