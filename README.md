@@ -1,6 +1,6 @@
-### Introducción [ (pdf) ](https://github.com/ashcat2005/Agujeros-Negros/raw/master/Introduccion.pdf)
+### Introducción [ (pdf) ](https://github.com/ashcat2005/Agujeros_Negros/raw/master/Introduccion.pdf)
 
-### 1. Qué es un Agujero Negro?  [ (pdf) ](https://github.com/ashcat2005/Agujeros-Negros/raw/master/Capitulo_1.pdf)
+### 1. Qué es un Agujero Negro?  [ (pdf) ](https://github.com/ashcat2005/Agujeros_Negros/raw/master/Capitulo_1.pdf)
 Estrellas oscuras en la gravedad Newtoniana.<br>
 Agujeros Negros en la Relatividad General.
 
