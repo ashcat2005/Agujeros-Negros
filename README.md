@@ -5,7 +5,7 @@
 <img src="by-sa.png"
      alt="CC-BY-SA-4.0"
      style="float: left; margin-right: 10px;"
-     height= "50"/>
+     height= "40"/>
 <br>
 <br>
 
