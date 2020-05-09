@@ -9,13 +9,14 @@
 Estrellas Oscuras en la Gravedad Newtoniana.<br>
 Agujeros Negros en la Relatividad General.
 
-### 2. La Muerte de una Estrella y el Nacimiento de Agujero Negro
+### 2. La Muerte de una Estrella y el Nacimiento de Agujero Negro [ (pdf) ](https://github.com/ashcat2005/Agujeros_Negros/raw/master/Capitulo_2.pdf)
+Nacimiento, Vida y Muerte de una Estrella.<br>
 Enanas Blancas.<br>
 Estrellas de Neutrones.<br>
 Campos Magnéticos, Magnetars y Pulsars.<br>
 Estructura Interna de una Estrella de Neutrones.<br>
 El Proceso de Acreción.<br>
-Evidencia Observacional.<br>
+Evidencia Observacional de los Pulsars.<br>
 Agujeros Negros.
 
 ### 3. Clasificación de los Agujeros Negros
@@ -49,8 +50,17 @@ Disco de Acreción.<br>
 Jets Relativistas.
 
 ### 6. Visualización de una Agujero Negro
+La Sombra de un agujero Negro.<br>
+La Imagen de un Disco de Acreción.<br>
+Otros Efectos sobre la Radiación.<br>
+El Modelo de un Agujero Negro Real.
 
 ### 7. Agujeros Negros Estelares
+Transferencia de Masa en Sistemas Binarios.<br>
+Viento Estelar.<br>
+Desbordamiento del Lóbulo de Roche.<br>
+Clasificación de los Sistemas Binarios.<br>
+Evidencia de Objetos Compactos en Sistema Binarios.
 
 ### 8. Cygnus X-1
 
@@ -59,6 +69,7 @@ Jets Relativistas.
 ### 10. Agujeros Negros Supermasivos
 
 ### 11. Sagittarius A*
+El Centro Galáctico.
 
 ### 12. M87*. Fotografia de un Agujero Negro
 
