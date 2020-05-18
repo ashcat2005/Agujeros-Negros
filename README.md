@@ -29,7 +29,7 @@ El Proceso de Acreción.<br>
 Evidencia Observacional de los Pulsars.<br>
 Agujeros Negros.
 
-### 3. Clasificación de los Agujeros Negros
+### 3. Clasificando los Agujeros Negros [ (pdf) ](https://github.com/ashcat2005/Agujeros_Negros/raw/master/Capitulo_3.pdf)
 Clasificación de acuerdo con las Características Físicas.<br>
 Agujeros negros no-rotantes sin carga eléctrica.<br>
 Agujeros negros no-rotantes con carga eléctrica.<br>
