@@ -1,6 +1,16 @@
 ### Sobre el Autor
 **Eduard Larrañaga** es Doctor en Física y Magister en Astronomía de la Universidad Nacional de Colombia. Actualmente se encuentra vinculado como profesor asociado del Observatorio Astronómico Nacional, en donde tiene a su cargo asignturas de posgrado en las areas de la Relatividad General y los Agujeros Negros. Es un investigador Senior de acuerdo con la clasificación actual de Colciencias y ha realizado mas de 20 publicaciones científicas internacionales.  Sus intereses de investigación actuales incluyen el problema jerarquico de tres cuerpos en la mecánica celeste relativista y la aplicación de las técnicas del machine learning al análisis de datos astrofísicos.
 
+
+<img src="by-sa.png"
+     alt="CC-BY-SA-4.0"
+     style="float: left; margin-right: 10px;"
+     height= "40"/>
+<br>
+<br>
+
+--- 
+
 ## Contenidos
 
 ### Introducción [ (pdf) ](https://github.com/ashcat2005/Agujeros_Negros/raw/master/Introduccion.pdf)
