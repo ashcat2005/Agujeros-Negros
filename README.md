@@ -19,7 +19,7 @@
 Estrellas Oscuras en la Gravedad Newtoniana.<br>
 Agujeros Negros en la Relatividad General.
 
-### 2. La Muerte de una Estrella y el Nacimiento de Agujero Negro [ (pdf) ](https://github.com/ashcat2005/Agujeros_Negros/raw/master/Capitulo_2.pdf)
+### 2. La Muerte de una Estrella y el Nacimiento de Agujero Negro (actualizado!) [ (pdf) ](https://github.com/ashcat2005/Agujeros_Negros/raw/master/Capitulo_2.pdf)
 Nacimiento, Vida y Muerte de una Estrella.<br>
 Enanas Blancas.<br>
 Estrellas de Neutrones.<br>
