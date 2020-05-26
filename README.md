@@ -40,7 +40,7 @@ Agujeros Negros Estelares.<br>
 Agujeros Negros Supermasivos.<br>
 Agujeros Negros Primordiales o Microscópicos.
 
-### 4. Anatomía de un Agujero Negro
+### 4. Anatomía de un Agujero Negro [ (pdf) ](https://github.com/ashcat2005/Agujeros_Negros/raw/master/Capitulo_4.pdf)
 Agujeros Negros Estáticos.<br>
 Agujeros Negros Rotantes.<br>
 Singularidades.<br>
