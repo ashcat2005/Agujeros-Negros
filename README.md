@@ -50,7 +50,7 @@ Dilatación del Tiempo.<br>
 Corrimiento al Rojo Gravitacional.<br>
 Dentro del Horizonte de Eventos.
 
-### 5. Observando lo Imposible
+### 5. Observando lo Imposible [ (pdf) ](https://github.com/ashcat2005/Agujeros_Negros/raw/master/Capitulo_5.pdf)
 Orbitas de Partículas.<br>
 Orbitas Elípticas.<br>
 Orbitas Circulares.<br>
@@ -73,13 +73,18 @@ Clasificación de los Sistemas Binarios.<br>
 Evidencia de Objetos Compactos en Sistema Binarios.
 
 ### 8. Cygnus X-1
+El Sistema Binario.<br>
+El Disco de Acreción.<br>
+El Objeto COmpacto.<br>
+Jets Relativistas.<br>
+Rayos Gamma.
 
 ### 9. Ondas Gravitacionales producidas por Sistemas Binarios Compactos
 
 ### 10. Agujeros Negros Supermasivos
 
 ### 11. Sagittarius A*
-El Centro Galáctico.
+El Centro Galáctico.<br>
 
 ### 12. M87*. Fotografia de un Agujero Negro
 
